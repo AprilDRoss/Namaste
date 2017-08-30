@@ -1,0 +1,29 @@
+.nav-bar{
+  display: flex;
+  font-family: 'Sacramento', cursive;
+  font-size: 24px;
+  justify-content: space-around;
+  padding:30px;
+  font-style: normal;
+}
+
+.logo{
+  width:150px;
+  height:150px;
+}
+
+.karma-club-info{
+  font-family: 'Sacramento', cursive;
+  font-size: 24px;
+}
+
+.karma-club-info1{
+  font-family: 'Courgette', cursive;
+}
+
+
+.userform{
+  border-style: solid black 2px;
+  font-family: 'Courgette', cursive;
+  font-size: 24px;
+}

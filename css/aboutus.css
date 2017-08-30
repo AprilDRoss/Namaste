@@ -1,0 +1,29 @@
+.nav-bar{
+  display: flex;
+  font-family: 'Sacramento', cursive;
+  font-size: 24px;
+  justify-content: space-around;
+  padding:30px;
+  font-style: normal;
+}
+
+.logo{
+  width:150px;
+  height:150px;
+}
+
+.pic{
+  display: flex;
+  justify-content: center;
+}
+
+.ownerpic{
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+}
+
+.nneka{
+  font-family: 'Courgette', cursive;
+  font-size: 24px;
+}
